@@ -9,7 +9,7 @@
 📜 Movie Details: Users can click on a movie card to view detailed information about a movie, including its name, image, power stats, biography, and more.
 <br/>
 
-<h3>Live Demo: 🦸‍♀️ </h3> <a href="https://harikishan98.github.io/Super-hero-hunter-app/" target="_blank">Live Demo</a>
+<h3>Live Demo: 🦸‍♀️ </h3> <a href="https://harikishan98.github.io/Super-hero-hunter-app/" target="_blank">SuperHero Hunter App</a>
 
 
 <h3>Technologies Used </h3>

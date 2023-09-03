@@ -36,7 +36,7 @@ Open the index.html file in a web browser to start using the website. <br/>
 <h4>Credits </h4>
 Superhero API: The API used to fetch movie and superhero data.
 <h5>Author </h5>
-harikishan
+Harikishan Mittal
 
 <h3>📧 Contact: harikishanmittal198@gmail.com  </h3>
 
